@@ -1,0 +1,15 @@
+C:\Projects\chm2apk\chm2apk\chm2apk\bin\Debug\chm2apk.dll
+C:\Projects\chm2apk\chm2apk\chm2apk\bin\Debug\chm2apk.pdb
+C:\Projects\chm2apk\chm2apk\chm2apk\bin\Debug\chm2apk.chm2apk.apk
+C:\Projects\chm2apk\chm2apk\chm2apk\bin\Debug\chm2apk.chm2apk-Signed.apk
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\chm2apk.csprojResolveAssemblyReference.cache
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\chm2apk.dll
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\chm2apk.pdb
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\android\bin\chm2apk.chm2apk.apk
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\res\layout\main.xml
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\res\values\strings.xml
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\res\drawable\icon.png
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\R.cs.flag
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\uploadflags.txt
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\chm2apk.dll.mdb
+C:\Projects\chm2apk\chm2apk\chm2apk\bin\Debug\chm2apk.dll.mdb

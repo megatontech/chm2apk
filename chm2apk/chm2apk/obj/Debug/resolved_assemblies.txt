@@ -1,0 +1,10 @@
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\assemblies\chm2apk.dll
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\assemblies\Mono.Android.dll
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\assemblies\mscorlib.dll
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\assemblies\System.Core.dll
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\assemblies\System.dll
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\assemblies\System.Web.Services.dll
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\assemblies\System.Xml.dll
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Projects\chm2apk\chm2apk\chm2apk\obj\Debug\assemblies\System.ServiceModel.Internals.dll
